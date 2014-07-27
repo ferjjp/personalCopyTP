@@ -1,0 +1,6 @@
+#!/home/utnso/git/tp-2014-1c-conitos-team/proyectoPrograma/Debug/proyectoPrograma
+begin
+	variables a
+	a = 3
+	print a
+end

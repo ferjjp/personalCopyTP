@@ -1,0 +1,1 @@
+programa.d: ../programa.c
