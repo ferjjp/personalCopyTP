@@ -1,0 +1,4 @@
+IPKernel=localhost
+IPUMV=localhost
+PuertoKernel=5001
+PuertoUMV=5000

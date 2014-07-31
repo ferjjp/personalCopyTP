@@ -1,0 +1,17 @@
+function mult
+variables i
+    i= 0
+    return i
+end
+
+begin
+variables x,y,A
+    y=325
+    x=26
+    textPrint MCD entre
+    print x
+    print y
+    textPrint es
+    A <- mult
+    print A
+end
