@@ -1,1 +1,0 @@
-clienteTest.d: ../clienteTest.c

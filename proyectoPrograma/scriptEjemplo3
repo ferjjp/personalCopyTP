@@ -1,5 +1,0 @@
-begin
-    variables a
-    a = 3
-    print a
-end

@@ -1,6 +1,0 @@
-begin
-    variables a
-    !colas = 1
-    a = !colas
-    print !colas
-end
